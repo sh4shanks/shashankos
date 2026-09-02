@@ -134,7 +134,10 @@ const Hero = () => {
   return (
     <section
       ref={sectionRef}
+<<<<<<< HEAD
       id="home"
+=======
+>>>>>>> 482242b65a93f76ac2e7410c17ad3cf98559bc38
       className="relative w-full h-screen bg-[#050505] overflow-hidden flex flex-col justify-between select-none cursor-none"
     >
       <style>{`
